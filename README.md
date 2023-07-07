@@ -1,4 +1,4 @@
-# Automatic Fact Cheking
+# Automatic Fact Checking
 
 # Methods
 In this project, we built an automated fact-checking system designed for climate science claims. Our goal is to provide a more accurate and efficient method to address the prevalence of misinformation in this domain. The system is divided into two tasks: (1) to extract the most relevant evidence for each claim, using an unsupervised TF-IDF method and a fine-tuned neural network with BERT models; and (2) to classify the relationship between claims and evidence, using Roberta embeddings as inputs into a classifier.
